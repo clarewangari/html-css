@@ -1,0 +1,25 @@
+body{
+	background-color: #ccc;
+}
+. content{
+	width: 500px;
+	margin: 40px,auto;
+
+}
+.content table{
+	width: 100%;
+	background-color: #fff;
+	text-align: left;
+	border: 1px solid #aaa;
+	padding: 20px;
+}
+.content table tr{
+	border-bottom: 1px solid;
+
+}
+.content table tr td{
+	padding: 10px;
+	border-right: 1px solid;
+	background-color: #aaa;
+	color: white;
+}
